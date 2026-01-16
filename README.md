@@ -1,10 +1,10 @@
-# 📊 Medical Data Analysis Project (Excel Dashboard)
-## 📌 Project Overview
+# 📊 Medical Data Analysis Project
+## Project Overview
 
 This project analyzes medical insurance data to identify key drivers of healthcare costs using Microsoft Excel.
 The analysis focuses on demographic factors (age, gender), lifestyle risks (BMI, smoking), dependents, and regional variations to uncover actionable insights. An interactive Excel dashboard summarizes trends for quick business decision-making.
 
-## 🧠 Business Questions Addressed
+## Business Questions Addressed
 
 Which factors have the highest impact on medical charges?
 
@@ -16,7 +16,8 @@ Do dependents significantly affect insurance charges?
 
 Which region incurs the highest medical costs?
 
-## 📑 Table of Contents
+## Table of Contents
+
 1. [Dataset Overview](#dataset-overview)
 2. [Key Takeaways](#key-takeaways)
 3. [Statistical Summary](#statistical-summary)
@@ -26,8 +27,7 @@ Which region incurs the highest medical costs?
 7. [Regional Insights](#regional-insights)
 8. [Dashboard Overview](#dashboard-overview)
 9. [Tools & Skills Used](#tools--skills-used)
-    
-10.[Project Outcome](#project-outcome)
+10. [Project Outcome](#project-outcome)
 
 ## Dataset Overview
 
