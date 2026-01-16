@@ -130,7 +130,7 @@ Visual summaries for executive-level decision-making
 ## Presentation Walkthrough:
 https://youtu.be/LkxaS82KktQ
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 
 Microsoft Excel
 
