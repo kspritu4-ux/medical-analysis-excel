@@ -1,4 +1,4 @@
-# 📊 Medical Data Analysis Project
+# 📊 Medical Cost Data Analysis Project
 
 ## Table of Contents
 1.  [Project Overview](#project-overview)
